@@ -58,7 +58,7 @@ p.lead {
   display: inline-block;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #8d8848;
   color: #fff !important;
   border-radius: 100%;
   text-align: center;
@@ -164,7 +164,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color:  #47a38c ;
+  color:  #a73658 ;
 }
 
 a {
