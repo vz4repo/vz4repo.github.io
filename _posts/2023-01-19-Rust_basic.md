@@ -1,3 +1,8 @@
+---
+layout: post
+title: rust_for_fun 
+---
+
 ### installation
 1. curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 2. rustup update
