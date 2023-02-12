@@ -127,10 +127,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:https://github.com/vz4repo/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/vz4repo/"
+      # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
