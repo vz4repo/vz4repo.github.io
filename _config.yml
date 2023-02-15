@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "vz"
-title_separator: "-"
-subtitle: "the lazy"
+title: "localhost:재택희망자"
+title_separator: "|"
+subtitle: ":the lazy"
 name: "Hr"
 description: "under construction.."
 url: "https://vz4repo.github.io"
@@ -27,7 +27,7 @@ repository: "https://github.com/vz4repo/"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs: true #false
 words_per_minute: 200
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -96,22 +96,22 @@ social:
 
 # Analytics
 analytics:
-  provider: false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id:
-    anonymize_ip: # true, false (default)
+    tracking_id: "G-M5JVPD5HML"
+    anonymize_ip: false
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "미련한 개발자"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  bio: "느릿느릿"
+  location: "[　　;　　]"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hrkwon82@gmail.com"
+      url: "mailto:hrkwon82@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://weclist.com"
@@ -127,7 +127,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:https://github.com/vz4repo/
+      url: https://github.com/vz4repo/
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -268,3 +268,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      show_date: true
+date_format: "%y_%m_%d"
