@@ -3,6 +3,7 @@ layout: single
 title: rust_for_fun
 categories: Dev
 tags: [Rust, Test]
+toc: true
 ---
 
 ### installation
