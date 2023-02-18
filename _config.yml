@@ -16,9 +16,9 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "localhost:재택희망자"
+title: "localhost"
 title_separator: "|"
-subtitle: ":the lazy"
+subtitle: ":재택희망자"
 name: "Hr"
 description: "under construction.."
 url: "https://vz4repo.github.io"
